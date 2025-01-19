@@ -8,15 +8,20 @@ This project is an Java-based text editor with rich features such as syntax high
 
 ### Key Features
 - **Syntax Highlighting**: Highlights keywords, comments, and modifiers for better code readability.
+
   ![Syntax Highlighting](images/errorScreen.png)
 - **Line Numbering**: Automatically numbers lines to aid navigation.
+
   ![Line Numbering](images/numbering.png)
 - **Autocomplete**: Suggests keywords as you type, with support for navigation using arrow keys and mouse clicks.
+
   ![Autocomplete](images/autocomplete.png)
 - **Code Execution**: Sends code to the Judge0 API for execution and displays results.
+  
   ![Code Execution](images/outputJava.png)
 - **Autosave**: Automatically saves the editor content every 2 minutes.
 - **Light/Dark Mode**: Switches between light and dark themes dynamically with proper text and background updates.
+  
   ![Code Execution](images/darkMode.png)
 - **Current Line Highlighting**: Visually indicates the line where the caret is located.
 
